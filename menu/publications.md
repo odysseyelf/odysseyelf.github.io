@@ -17,7 +17,10 @@ Rather than presenting a complete publication list here, I highlight representat
 
 - Peng, C., **Yu, C.-C.**, Ding, W.-N., Chen, L.-Q., Zhang, Q.-Y., Li, Y.-K., Boucher, F. C., Lavergne, S., Xing, Y.-W. (2026). **Macroevolutionary dynamics of *Androsace* s.l. across the Northern Hemisphere.** *Journal of Systematics and Evolution.* (accepted)
   
-- Mu, Q.-Y.*, **Yu, C.-C.***, Wang, Y., Han, T.-S., Wang, H., Ding, W.-N., Zhang, Q.-Y., Low, S.-L., Zheng, Q.-J., Peng, C., Hu, Z.-Y., Xing, Y.-W. (2021). **Comparative phylogeography of *Acanthocalyx* reveals distinct genetic structures in the Himalaya–Hengduan Mountains.** *Alpine Botany.*
+- Mu, Q.-Y.#*, **Yu, C.-C.#**, Wang, Y., Han, T.-S., Wang, H., Ding, W.-N., Zhang, Q.-Y., Low, S.-L., Zheng, Q.-J., Peng, C., Hu, Z.-Y., Xing, Y.-W. (2021). **Comparative phylogeography of *Acanthocalyx* reveals distinct genetic structures in the Himalaya–Hengduan Mountains.** *Alpine Botany.*
+
+- Ito, T., **Yu, C.-C.**, Nakamura, K., Chung, K.-F., Yang, Q., Fu, C.-X., Qi, Z.-C., *et al.* (2017). **Unique parallel radiations of high-mountainous species of the genus *Sedum* (Crassulaceae) on the continental island of Taiwan.** *Molecular Phylogenetics and Evolution.*
+
 
 ---
 
@@ -38,6 +41,10 @@ Rather than presenting a complete publication list here, I highlight representat
 Using phylogenomics and integrative taxonomy, I investigate species boundaries, evolutionary relationships, and the origins of morphological diversity in flowering plants.
 
 - Hsieh, C.-L., **Yu, C.-C.**, Huang, Y.-L., Chung, K.-F. (2022). **Mahonia vs. *Berberis*: Generic delimitation and infragamilial classification of Berberidaceae based on plastid phylogenomics.** *Frontiers in Plant Science.*
+
+- **Yu, C.-C.**, Chung, K.-F. (2017). **Why *Mahonia*? Molecular recircumscription of *Berberis* s.l., with the description of two new genera, *Alloberberis* and *Moranothamnus*.** *Taxon.*
+
+- Pan, H.-L., Zhang, Y., Wang, J.-H., Meng, D.-C., **Yu, C.-C.** (2025). **_*Berberis jiuzhaigouensis*_ (Berberidaceae), a new riparian shrub from northern Sichuan, China.** *PhytoKeys.*
 
 - **Yu, C.-C.**, Mo, Z.-Q., Hu, J.-J., Yang, J.-B., Zhang, R., Li, S.-F., Jia, L.-B. (2025). **Revisiting the molecular circumscription of Sladeniaceae sensu lato: insights from phylogenetic discordance.** *American Journal of Botany.*
 
