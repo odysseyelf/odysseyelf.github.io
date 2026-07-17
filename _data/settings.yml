@@ -10,6 +10,7 @@ menu:
 - {name: 'About',   url: 'about'}
 - {name: 'Research', url: 'research'}
 - {name: 'Publications', url: 'publications'}
+- {name: 'CV', url: 'cv'}
 - {name: 'Gallery', url: 'gallery'}
 - {name: 'Contact', url: 'contact'}
 
