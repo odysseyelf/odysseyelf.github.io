@@ -22,7 +22,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Chih-Chieh Yu'
-description:	       'Plant diversity, distribution and biogeography'
+description:	       'Mountain Plant Evolution and Biogeography'
 author:              'Chih-Chieh Yu'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
