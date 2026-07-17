@@ -1,10 +1,11 @@
 ---
 layout: page
-title: "Mountains first drew me into biology"
+title: "About"
 author: "Chih-Chieh Yu"
 image: mountain.jpg
 ---
 
+**Mountains first drew me into biology.**
 
 As a student, I spent much of my time exploring the mountains of Taiwan, where I became fascinated by the remarkable diversity of alpine and montane plants. That fascination eventually led me into plant systematics and evolutionary biology.
 
