@@ -21,9 +21,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Kung-Ping Lin'
-description:	       'Evolutionary Genomics'
-author:              'Kung-Ping Lin'
+title:		           'Chih-Chieh Yu'
+description:	       'Plant diversity, distribution and biogeography'
+author:              'Chih-Chieh Yu'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
