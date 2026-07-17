@@ -1,14 +1,15 @@
 ---
 layout: page
-title: "Welcome"
-author: "Kung-Ping Lin"
+title: "Chih-Chieh Yu"
+author: "Chih-Chieh Yu"
 image: shinkang1_banner.jpg
 ---
 
-I am a PhD student studying evolutionary biology. My major interests are centered around how different evolutionary forces may shape the architechture of populations and species on a molecular level.  
+Mountains first drew me into biology.
 
-I use a combination of bioinformatic analyses, computer simulations, and experiments to explore various subjects. Right now I am working on the speciation genomics of three-spined sticklebacks and the conservation genetics of Formosan fruit bat.
+As a student, I spent much of my time exploring the mountains of Taiwan, where I became fascinated by the remarkable diversity of alpine and montane plants. That fascination eventually led me into plant systematics and evolutionary biology.
 
-## Curriculum vitae
+Today, I use phylogenomics, biogeography, and functional ecology to investigate one of the questions that has continued to motivate me since those early field experiences: how do mountain floras originate, persist, and diversify through time?
 
-Please see my CV [here](https://github.com/kpsimonlin/CV).
+From Taiwan to the Himalaya-Hengduan Mountains and the Andes, my research interest explores the historical and ecological processes that generate plant diversity across the world's mountain systems.
+
