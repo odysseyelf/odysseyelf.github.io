@@ -2,7 +2,7 @@
 layout: page
 title: "Mountains first drew me into biology"
 author: "Chih-Chieh Yu"
-image: shinkang1_banner.jpg
+image: mountain.jpg
 ---
 
 
