@@ -15,10 +15,10 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'envelope',       link: 'mailto:kplin@mail.ubc.ca'}
-- {icon: 'github',         link: 'https://github.com/kpsimonlin'}
-- {icon: 'researchgate',     link: 'https://www.researchgate.net/profile/Kung-Ping-Lin'}
-- {icon: 'google-scholar', link: 'https://scholar.google.com.tw/citations?hl=zh-TW&user=EJPYBs8AAAAJ'}
+- {icon: 'envelope',       link: 'mailto:cyu@fieldmuseum.org'}
+- {icon: 'github',         link: 'https://github.com/odysseyelf'}
+- {icon: 'researchgate',     link: 'https://www.researchgate.net/profile/Chih-Chieh-Yu-2?ev=hdr_xprf'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com.tw/citations?hl=zh-TW&user=fsunfBIAAAAJ'}
 
 # Customize site text
 pagination:
