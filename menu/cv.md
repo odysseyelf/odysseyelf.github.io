@@ -8,4 +8,4 @@ permalink: /cv
 
 My full CV can be downloaded here.
 
-[Download CV](website)
+[Download CV](https://odysseyelf.github.io/Chih-Chieh_Yu_CV.pdf)
