@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-image: publication.jpg
+image: Publication.jpg
 permalink: /publications/
 ---
 
