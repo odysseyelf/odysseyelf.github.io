@@ -11,7 +11,7 @@ menu:
 - {name: 'Research', url: 'research'}
 - {name: 'Publications', url: 'publications'}
 - {name: 'CV', url: 'cv'}
-- {name: 'Book', url: 'book'}
+- {name: 'Books', url: 'books'}
 - {name: 'Gallery', url: 'gallery'}
 - {name: 'Contact', url: 'contact'}
 
