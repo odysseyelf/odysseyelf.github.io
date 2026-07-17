@@ -1,16 +1,27 @@
 ---
 layout: page
-title: Contact
-image: Contact.jpg
-permalink: /contact
+title: Publications
+image: Publication.jpg
+permalink: /publications/
 ---
-<style>
-ul li {
-    padding: 2.5px 5px;
-}
-</style>
 
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-envelope"></i>cyu@fieldmuseum.org</li>  
-  
-  <li><i class="fa-li fa fa-envelope"></i>odysseyelf@gmail.com</li> 
+
+I welcome inquiries regarding research collaborations, student supervision, postdoctoral opportunities, and science communication.
+
+### Email
+
+**Field Museum**
+
+cyu@fieldmuseum.org
+
+**Personal**
+
+odysseyelf@gmail.com
+
+---
+
+### Current Affiliation
+
+Department of Science & Education  
+Field Museum of Natural History  
+Chicago, Illinois, USA
