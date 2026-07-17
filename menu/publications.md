@@ -13,23 +13,15 @@ Rather than presenting a complete publication list here, I highlight representat
 
 # Mountain Biodiversity
 
-Research in this theme explores why some mountain systems accumulate extraordinary numbers of plant species while others do not, integrating macroevolution, functional traits, and Earth history.
-
 - **Yu, C.-C.**, Du, Z.-Q., Onstein, R., Li, S.-F., Ree, R. H., Xing, Y.-W. (2026). **Synnovation and confluence explain disparities in species richness across the Andes and Hengduan–Himalaya Mountains.** *Nature Communications.* (accepted)
 
 - Peng, C., **Yu, C.-C.**, Ding, W.-N., Chen, L.-Q., Zhang, Q.-Y., Li, Y.-K., Boucher, F. C., Lavergne, S., Xing, Y.-W. (2026). **Macroevolutionary dynamics of *Androsace* s.l. across the Northern Hemisphere.** *Journal of Systematics and Evolution.* (accepted)
   
 - Mu, Q.-Y.*, **Yu, C.-C.***, Wang, Y., Han, T.-S., Wang, H., Ding, W.-N., Zhang, Q.-Y., Low, S.-L., Zheng, Q.-J., Peng, C., Hu, Z.-Y., Xing, Y.-W. (2021). **Comparative phylogeography of *Acanthocalyx* reveals distinct genetic structures in the Himalaya–Hengduan Mountains.** *Alpine Botany.*
 
-
-
-- Yu, F., Wang, X., Yao, X., **Yu, C.-C.**, Charles-Dominique, T., *et al.* (2025). **The macroecology of spines on woody plants.** *Biological Reviews.*
-
 ---
 
 # Biogeography & Macroevolution
-
-This work examines how dispersal, climatic change, and evolutionary history interact to shape the geographic assembly of plant diversity across continents and mountain systems.
 
 - Han, T.-S., **Yu, C.-C.**, Zheng, Q.-J., Kimura, S., Onstein, R. E., Xing, Y.-W. (2023). **Synergistic polyploidization and long-distance dispersal enable the global diversification of yellowcress herbs.** *Global Ecology and Biogeography.*
 
