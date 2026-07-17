@@ -10,22 +10,32 @@ My complete curriculum vitae is available as a PDF:
 
 ---
 
-## Current Position
+## Appointments
 
-**Postdoctoral Researcher**  
-Field Museum of Natural History, Chicago, USA  
-Richard H. Ree Laboratory
+**Postdoctoral Research Fellow**  
+Grainger Bioinformatics Center, Field Museum of Natural History  
+Chicago, USA  
+Apr. 2024–present  
+Advisor: Dr. Richard H. Ree
 
-## Previous Appointment
-
-**Postdoctoral Researcher**  
-Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences  
-Xingyao Xu Laboratory
+**Postdoctoral Research Fellow**  
+Key Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences  
+Xishuangbanna, China  
+Sep. 2019–Mar. 2024  
+Advisor: Dr. Yao-Wu Xing
 
 ## Education
 
-**Ph.D. in Forestry**  
-National Taiwan University
+**Ph.D., School of Forestry and Resource Conservation**  
+National Taiwan University  
+Sep. 2008–Aug. 2018  
+
+Dissertation: “Molecular Phylogenetics and Historical Biogeography of *Berberis* (Berberidaceae)”  
+Advisor: Dr. Kuo-Fang Chung
+
+**B.S., School of Forestry and Resource Conservation**  
+National Taiwan University  
+Sep. 2004–Aug. 2008
 
 ## Research Interests
 
@@ -35,13 +45,9 @@ National Taiwan University
 - Diversification and trait evolution
 - Functional ecology
 
-## Selected Research Regions
+## Research Regions
 
 - Taiwan
+- Japan
 - Himalaya–Hengduan Mountains
-- Southwest China
 - Andes
-
-## Additional Information
-
-For a complete record of publications, research appointments, awards, teaching, invited talks, and professional service, please download the full CV above.
