@@ -6,213 +6,222 @@ description: "Research themes of Chih-Chieh Yu, integrating phylogenomics, syste
 ---
 
 <style>
+  .research-page {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 10px 0 60px;
+  }
 
-.research-page{
-    max-width:1100px;
-    margin:auto;
-    padding:10px 0 60px;
-}
+  .research-intro {
+    margin-bottom: 50px;
+  }
 
-.research-intro{
-    margin-bottom:55px;
-}
+  .research-intro h1 {
+    margin-top: 0;
+    margin-bottom: 18px;
+  }
 
-.research-intro h1{
-    margin-bottom:18px;
-}
+  .research-intro p {
+    max-width: 900px;
+    margin-bottom: 0;
+    font-size: 1.18rem;
+    line-height: 1.8;
+  }
 
-.research-intro p{
-    font-size:1.18rem;
-    line-height:1.8;
-    max-width:900px;
-}
+  .research-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 35px;
+    align-items: stretch;
+  }
 
-.research-grid{
-    display:grid;
-    grid-template-columns:repeat(2,minmax(0,1fr));
-    gap:35px;
-}
+  .research-card {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    background: #ffffff;
+    border: 1px solid #e7e7e7;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
 
-.research-card{
+  .research-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.12);
+  }
 
-    background:white;
+  .research-card img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
 
-    border:1px solid #e7e7e7;
+  .research-card-content {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    padding: 30px;
+  }
 
-    border-radius:12px;
+  .research-card h2 {
+    margin-top: 0;
+    margin-bottom: 18px;
+    font-size: 1.75rem;
+    line-height: 1.25;
+  }
 
-    overflow:hidden;
+  .research-card p {
+    margin-top: 0;
+    margin-bottom: 22px;
+    line-height: 1.7;
+  }
 
-    box-shadow:0 4px 15px rgba(0,0,0,.05);
+  .research-link {
+    margin-top: auto;
+    font-weight: 600;
+    text-decoration: none;
+  }
 
-    transition:.25s;
+  .research-link:hover {
+    text-decoration: underline;
+  }
 
-}
+  @media screen and (max-width: 800px) {
+    .research-grid {
+      grid-template-columns: 1fr;
+    }
 
-.research-card:hover{
+    .research-intro p {
+      font-size: 1.08rem;
+    }
 
-    transform:translateY(-4px);
-
-    box-shadow:0 10px 28px rgba(0,0,0,.12);
-
-}
-
-.research-card img{
-
-    width:100%;
-
-    height:260px;
-
-    object-fit:cover;
-
-    display:block;
-
-}
-
-.research-card-content{
-
-    padding:30px;
-
-}
-
-.research-card h2{
-
-    margin-top:0;
-
-    margin-bottom:18px;
-
-    font-size:2rem;
-
-    line-height:1.2;
-
-}
-
-.research-card p{
-
-    line-height:1.8;
-
-    margin-bottom:22px;
-
-}
-
-.research-link{
-
-    font-weight:600;
-
-    text-decoration:none;
-
-}
-
-.research-link:hover{
-
-    text-decoration:underline;
-
-}
-
-@media(max-width:800px){
-
-.research-grid{
-
-grid-template-columns:1fr;
-
-}
-
-}
-
+    .research-card-content {
+      padding: 24px;
+    }
+  }
 </style>
 
 <div class="research-page">
 
-<div class="research-intro">
+  <section class="research-intro">
+    <h1>Research</h1>
 
-# Research
+    <p>
+      My research aims to understand how plant diversity originates and
+      accumulates through time and space by integrating
+      <strong>phylogenomics</strong>, <strong>systematics</strong>,
+      <strong>historical biogeography</strong>, and
+      <strong>macroevolutionary analyses</strong>. Using mountain systems and
+      continental islands as natural laboratories, I investigate how
+      geological history, ecological opportunity, and evolutionary processes
+      interact to generate exceptional plant diversity and endemism.
+    </p>
+  </section>
 
-My research aims to understand how plant diversity originates and accumulates through time and space by integrating **phylogenomics**, **systematics**, **historical biogeography**, and **macroevolutionary analyses**. Using mountain systems and continental islands as natural laboratories, I investigate how geological history, ecological opportunity, and evolutionary processes interact to generate exceptional plant diversity and endemism.
+  <section class="research-grid">
 
-</div>
+    <article class="research-card">
+      <img
+        src="{{ '/assets/img/research/mountain-plant-diversity.jpg' | relative_url }}"
+        alt="Mountain landscape representing the origins and assembly of mountain plant diversity"
+      >
 
-<div class="research-grid">
+      <div class="research-card-content">
+        <h2>Origins and Assembly of Mountain Plant Diversity</h2>
 
-<article class="research-card">
+        <p>
+          Mountain regions harbor extraordinary levels of plant diversity.
+          I investigate how colonization history, geological processes,
+          ecological opportunity, and evolutionary innovations collectively
+          shape the assembly and diversification of mountain floras.
+        </p>
 
-<img src="{{ '/assets/img/research/mountain-plant-diversity.jpg' | relative_url }}">
+        <a
+          class="research-link"
+          href="{{ '/research/mountain-plant-diversity/' | relative_url }}"
+        >
+          Learn more →
+        </a>
+      </div>
+    </article>
 
-<div class="research-card-content">
+    <article class="research-card">
+      <img
+        src="{{ '/assets/img/research/historical-biogeography.jpg' | relative_url }}"
+        alt="Landscape representing historical biogeography and macroevolution"
+      >
 
-## Origins and Assembly of Mountain Plant Diversity
+      <div class="research-card-content">
+        <h2>Historical Biogeography and Macroevolution</h2>
 
-Mountain regions harbor extraordinary levels of plant diversity despite sharing many similar environmental conditions. I investigate how colonization history, geological processes, ecological opportunity, and evolutionary innovations collectively shape the assembly of mountain floras across the world.
+        <p>
+          By integrating dated phylogenies with probabilistic biogeographic
+          models, I reconstruct how dispersal, extinction, diversification,
+          and trait evolution have shaped the geographic histories and global
+          diversity patterns of plant lineages.
+        </p>
 
-<a class="research-link" href="{{ '/research/mountain-plant-diversity/' | relative_url }}">
+        <a
+          class="research-link"
+          href="{{ '/research/historical-biogeography/' | relative_url }}"
+        >
+          Learn more →
+        </a>
+      </div>
+    </article>
 
-Learn more →
+    <article class="research-card">
+      <img
+        src="{{ '/assets/img/research/systematics-and-phylogenomics.jpg' | relative_url }}"
+        alt="Plant specimens representing systematics and phylogenomics"
+      >
 
-</a>
+      <div class="research-card-content">
+        <h2>Systematics and Phylogenomics</h2>
 
-</div>
+        <p>
+          I use genome-scale data to resolve evolutionary relationships,
+          evaluate species boundaries, and reconstruct phylogenetic histories.
+          These systematic frameworks provide the foundation for studying
+          biogeography, diversification, and trait evolution.
+        </p>
 
-</article>
+        <a
+          class="research-link"
+          href="{{ '/research/systematics-and-phylogenomics/' | relative_url }}"
+        >
+          Learn more →
+        </a>
+      </div>
+    </article>
 
-<article class="research-card">
+    <article class="research-card">
+      <img
+        src="{{ '/assets/img/research/plant-endemism-on-continental-islands.jpg' | relative_url }}"
+        alt="Taiwan mountain landscape representing plant endemism on continental islands"
+      >
 
-<img src="{{ '/assets/img/research/historical-biogeography.jpg' | relative_url }}">
+      <div class="research-card-content">
+        <h2>Plant Endemism on Continental Islands</h2>
 
-<div class="research-card-content">
+        <p>
+          Continental islands provide natural laboratories for examining how
+          colonization, geographic isolation, ecological differentiation, and
+          in situ diversification generate endemic plant diversity. Taiwan is
+          a principal study system for addressing these questions.
+        </p>
 
-## Historical Biogeography and Macroevolution
+        <a
+          class="research-link"
+          href="{{ '/research/plant-endemism-on-continental-islands/' | relative_url }}"
+        >
+          Learn more →
+        </a>
+      </div>
+    </article>
 
-By integrating dated phylogenies with probabilistic biogeographic models, I reconstruct the geographic and evolutionary histories of plant lineages to understand how dispersal, extinction, diversification, and trait evolution have shaped global biodiversity patterns.
-
-<a class="research-link" href="{{ '/research/historical-biogeography/' | relative_url }}">
-
-Learn more →
-
-</a>
-
-</div>
-
-</article>
-
-<article class="research-card">
-
-<img src="{{ '/assets/img/research/systematics.jpg' | relative_url }}">
-
-<div class="research-card-content">
-
-## Systematics and Phylogenomics
-
-I use genome-scale data to resolve evolutionary relationships, delimit species, and reconstruct phylogenetic histories. My research combines phylogenomics, comparative genomics, and taxonomy to establish robust evolutionary frameworks for studying biodiversity.
-
-<a class="research-link" href="{{ '/research/systematics/' | relative_url }}">
-
-Learn more →
-
-</a>
-
-</div>
-
-</article>
-
-<article class="research-card">
-
-<img src="{{ '/assets/img/research/island-endemism.jpg' | relative_url }}">
-
-<div class="research-card-content">
-
-## Plant Endemism on Continental Islands
-
-Continental islands provide exceptional opportunities to investigate how repeated colonization, geographic isolation, ecological differentiation, and in situ diversification contribute to the origin and maintenance of endemic plant diversity. Taiwan serves as one of my principal study systems for addressing these questions.
-
-<a class="research-link" href="{{ '/research/island-endemism/' | relative_url }}">
-
-Learn more →
-
-</a>
-
-</div>
-
-</article>
-
-</div>
+  </section>
 
 </div>
