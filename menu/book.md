@@ -21,8 +21,6 @@ My academic research and science writing share the same goal: helping people und
 
 Taiwan’s mountains – with their subtropical foothills and alpine peaks – have been a haven for rare plants throughout the island’s history. But how did they get there? Scientist Yu Chih Chieh leads us through millennia of natural history in one of Asia’s great floral ecosystems.
 
-**English Sample**
-
 ➡️ [Read or download the English sample](/downloads/books/Book1_English_Sample.pdf)
 
 ---
@@ -36,8 +34,6 @@ Taiwan’s mountains – with their subtropical foothills and alpine peaks – h
 **Publisher:** 春山出版社｜**Year:** 2023
 
 A biogeographic exploration spanning millions of years, this book investigates the origins of Taiwan’s flora and fauna and the island’s incredible biodiversity. Fascinating information is interspersed with insights on the beauty of the natural world.
-
-**English Sample**
 
 ➡️ [Read or download the English sample](/downloads/books/Book2_English_Sample.pdf)
 
