@@ -23,7 +23,7 @@ Taiwan’s mountains – with their subtropical foothills and alpine peaks – h
 
 **English Sample**
 
-➡️ [Read or download the English sample](/downloads/books/Book1_Sample.pdf)
+➡️ [Read or download the English sample](/downloads/books/Book1_English_Sample.pdf)
 
 ---
 
@@ -39,7 +39,7 @@ A biogeographic exploration spanning millions of years, this book investigates t
 
 **English Sample**
 
-➡️ [Read or download the English sample](/downloads/books/Book2_Sample.pdf)
+➡️ [Read or download the English sample](/downloads/books/Book2_English_Sample.pdf)
 
 ---
 
