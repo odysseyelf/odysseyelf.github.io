@@ -62,7 +62,7 @@ description: "Research by Chih-Chieh Yu on the evolutionary origins, diversifica
   .project-list {
     display: flex;
     flex-direction: column;
-    gap: 34px;
+    gap: 36px;
   }
 
   .project-card {
@@ -79,7 +79,7 @@ description: "Research by Chih-Chieh Yu on the evolutionary origins, diversifica
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 330px;
+    min-height: 360px;
     padding: 20px;
     background: #f7f7f7;
   }
@@ -87,7 +87,7 @@ description: "Research by Chih-Chieh Yu on the evolutionary origins, diversifica
   .project-figure {
     display: block;
     width: 100%;
-    max-height: 300px;
+    max-height: 330px;
     object-fit: contain;
   }
 
@@ -118,12 +118,12 @@ description: "Research by Chih-Chieh Yu on the evolutionary origins, diversifica
 
   .project-card p {
     margin-top: 0;
-    margin-bottom: 20px;
+    margin-bottom: 18px;
     line-height: 1.7;
   }
 
   .project-links {
-    margin-top: auto;
+    margin-top: 6px;
   }
 
   .project-links a {
@@ -137,51 +137,14 @@ description: "Research by Chih-Chieh Yu on the evolutionary origins, diversifica
     text-decoration: underline;
   }
 
-  .publication-item {
-    margin-bottom: 28px;
-    padding-bottom: 28px;
-    border-bottom: 1px solid #e5e5e5;
+  .future-directions {
+    max-width: 880px;
   }
 
-  .publication-item:last-child {
-    border-bottom: 0;
-  }
-
-  .publication-item h3 {
-    margin-top: 0;
-    margin-bottom: 8px;
-    line-height: 1.4;
-  }
-
-  .publication-meta {
-    margin-bottom: 10px;
-    font-size: 0.98rem;
-  }
-
-  .publication-description {
-    margin-bottom: 12px;
-    line-height: 1.65;
-  }
-
-  .publication-links a {
-    display: inline-block;
-    margin-right: 16px;
-    font-weight: 600;
-    text-decoration: none;
-  }
-
-  .publication-links a:hover {
-    text-decoration: underline;
-  }
-
-  .status-label {
-    display: inline-block;
-    margin-bottom: 10px;
-    padding: 4px 9px;
-    border: 1px solid #d8d8d8;
-    border-radius: 20px;
-    font-size: 0.82rem;
-    line-height: 1;
+  .future-directions p {
+    margin-bottom: 18px;
+    font-size: 1.05rem;
+    line-height: 1.8;
   }
 
   @media screen and (max-width: 760px) {
@@ -197,6 +160,7 @@ description: "Research by Chih-Chieh Yu on the evolutionary origins, diversifica
     .project-figure {
       max-height: none;
       aspect-ratio: 4 / 3;
+      object-fit: contain;
     }
 
     .project-content {
@@ -236,16 +200,17 @@ description: "Research by Chih-Chieh Yu on the evolutionary origins, diversifica
 
     <p>
       By integrating phylogenomics, divergence-time estimation, historical
-      biogeography, diversification analyses, and ecological data, I compare
-      plant radiations across mountain systems. A central goal is to understand
-      why some regions generate diversity primarily through rapid in situ
-      diversification, whereas others accumulate species through repeated
-      immigration and long-term persistence.
+      biogeography, diversification analyses, functional traits, and
+      ecological data, I compare plant radiations across mountain systems.
+      A central goal is to understand why some regions generate diversity
+      primarily through rapid in situ diversification, whereas others
+      accumulate species through repeated immigration and long-term
+      persistence.
     </p>
   </section>
 
   <section class="theme-section">
-    <h2>Research Projects</h2>
+    <h2>Featured Research</h2>
 
     <div class="project-list">
 
@@ -255,27 +220,35 @@ description: "Research by Chih-Chieh Yu on the evolutionary origins, diversifica
           <img
             class="project-figure"
             src="{{ '/assets/img/research/south-american-berberis-project.jpg' | relative_url }}"
-            alt="Figure abstract for research on the evolution and diversification of South American Berberis"
+            alt="Graphical summary of leaf shape evolution in Andean Berberis"
           >
         </div>
 
         <div class="project-content">
-          <span class="project-status">Ongoing project</span>
+          <span class="project-status">Ongoing Research</span>
 
           <h3>
-            Evolution and diversification of South American
-            <em>Berberis</em>
+            What drives the remarkable diversity of leaf forms in Andean
+            <em>Berberis</em>?
           </h3>
 
           <p>
-            This project investigates the evolutionary, geographic, and
-            ecological processes underlying the diversification of
-            <em>Berberis</em> in South America. The project description will
-            be updated as analyses and manuscripts progress.
+            Species of <em>Berberis</em> in the Andes exhibit extraordinary
+            variation in leaf morphology. What ecological functions do these
+            diverse leaf forms serve, and how have they evolved throughout
+            the evolutionary history of the genus?
+          </p>
+
+          <p>
+            This project integrates geometric morphometrics, phylogenetic
+            comparative analyses, and ecological data to investigate the
+            adaptive significance of leaf-shape evolution and its relationship
+            to the exceptional species diversity of Andean
+            <em>Berberis</em>.
           </p>
 
           <div class="project-links">
-            <!-- Add project links here later. -->
+            <!-- Manuscript, data, and code links can be added here later. -->
           </div>
         </div>
 
@@ -287,28 +260,45 @@ description: "Research by Chih-Chieh Yu on the evolutionary origins, diversifica
           <img
             class="project-figure"
             src="{{ '/assets/img/research/global-berberis-project.jpg' | relative_url }}"
-            alt="Figure abstract for the global biogeography and diversification of Berberis"
+            alt="Graphical summary comparing Berberis radiations in the Andes and the Hengduan-Himalaya Mountains"
           >
         </div>
 
         <div class="project-content">
-          <span class="project-status">Published research</span>
+          <span class="project-status">Nature Communications</span>
 
           <h3>
-            Global biogeography and diversification of
-            <em>Berberis</em>
+            Why is plant diversity unevenly distributed across mountain
+            regions?
           </h3>
 
           <p>
-            This research examines how colonization history, mountain
-            geography, lineage diversification, and functional traits shaped
-            contrasting radiations of <em>Berberis</em> in the
-            Hengduan–Himalayan Mountains and the Andes.
+            By comparing <em>Berberis</em> radiations in the Andes and the
+            Hengduan–Himalaya Mountains, this study asks why two mountain
+            systems with substantial uplift histories harbor strikingly
+            different levels of plant diversity.
+          </p>
+
+          <p>
+            Asian lineages evolved a key synnovation involving the sequential
+            evolution of deciduousness and small, densely veined leaves. This
+            trait combination expanded their fundamental niche during the
+            Miocene and enabled colonization of cold, high-elevation habitats
+            as alpine environments expanded in the
+            Hengduan–Himalaya Mountains.
+          </p>
+
+          <p>
+            In contrast, Andean barberries remained predominantly evergreen
+            and were largely restricted to warmer climatic niches. These
+            findings show that exceptional biodiversity emerges through the
+            interaction between intrinsic functional innovations and
+            extrinsic ecological opportunities.
           </p>
 
           <div class="project-links">
             <a href="{{ '/publications/' | relative_url }}">
-              Publication details
+              Publication details →
             </a>
           </div>
         </div>
@@ -318,35 +308,24 @@ description: "Research by Chih-Chieh Yu on the evolutionary origins, diversifica
     </div>
   </section>
 
-  <section class="theme-section">
-    <h2>Representative Publication</h2>
+  <section class="theme-section future-directions">
+    <h2>Future Directions</h2>
 
-    <article class="publication-item">
-      <span class="status-label">Accepted</span>
+    <p>
+      Future research will expand these comparisons across additional
+      mountain plant radiations and geographic regions. I am particularly
+      interested in testing how geological timing, ecological opportunity,
+      functional innovation, and lineage history jointly determine whether
+      mountain systems promote rapid diversification or accumulate diversity
+      through repeated colonization.
+    </p>
 
-      <h3>
-        Global biogeography and diversification of <em>Berberis</em>
-      </h3>
-
-      <p class="publication-meta">
-        <strong>Nature Communications</strong>
-      </p>
-
-      <p class="publication-description">
-        This study compares the evolutionary assembly of species-rich
-        <em>Berberis</em> radiations in the Hengduan–Himalayan Mountains and
-        the Andes, showing that comparable mountain diversity can emerge
-        through contrasting combinations of colonization, diversification,
-        and functional traits.
-      </p>
-
-      <div class="publication-links">
-        <a href="{{ '/publications/' | relative_url }}">
-          Publication details
-        </a>
-      </div>
-    </article>
-
+    <p>
+      This research program will increasingly integrate phylogenomics,
+      comparative morphology, ecological niche evolution, and functional
+      traits to identify general mechanisms underlying the origin and
+      persistence of mountain plant diversity.
+    </p>
   </section>
 
 </div>
