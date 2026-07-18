@@ -21,9 +21,17 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Chih-Chieh Yu'
-description:	       'Mountain Plant Diversity'
-author:              'Chih-Chieh Yu'
+# Site information
+title: "Chih-Chieh Yu"
+description: "Personal academic website of Chih-Chieh Yu, a plant evolutionary biologist studying mountain biodiversity, historical biogeography, phylogenomics, plant systematics, and macroevolution."
+
+author: "Chih-Chieh Yu"
+
+url: "https://odysseyelf.github.io"
+baseurl: ""
+
+lang: en
+timezone: America/Chicago
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
