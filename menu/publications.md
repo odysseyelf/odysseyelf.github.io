@@ -40,11 +40,11 @@ Rather than presenting a complete publication list here, I highlight representat
 
 Using phylogenomics and integrative taxonomy, I investigate species boundaries, evolutionary relationships, and the origins of morphological diversity in flowering plants.
 
-- Hsieh, C.-L., **Yu, C.-C.**, Huang, Y.-L., Chung, K.-F. (2022). *Mahonia* vs. *Berberis*: Generic delimitation and infragamilial classification of Berberidaceae based on plastid phylogenomics.** *Frontiers in Plant Science.*
+- Hsieh, C.-L., **Yu, C.-C.**, Huang, Y.-L., Chung, K.-F. (2022). *Mahonia* vs. *Berberis*: **Generic delimitation and infragamilial classification of Berberidaceae based on plastid phylogenomics.** *Frontiers in Plant Science.*
 
 - **Yu, C.-C.**, Chung, K.-F. (2017). **Why *Mahonia*? Molecular recircumscription of *Berberis* s.l., with the description of two new genera, *Alloberberis* and *Moranothamnus*.** *Taxon.*
 
-- Pan, H.-L., Zhang, Y., Wang, J.-H., Meng, D.-C., **Yu, C.-C.** (2025). *Berberis jiuzhaigouensis*_ (Berberidaceae), a new riparian shrub from northern Sichuan, China. *PhytoKeys.*
+- Pan, H.-L., Zhang, Y., Wang, J.-H., Meng, D.-C., **Yu, C.-C.** (2025). *Berberis jiuzhaigouensis* (Berberidaceae), **a new riparian shrub from northern Sichuan, China.** *PhytoKeys.*
 
 - **Yu, C.-C.**, Mo, Z.-Q., Hu, J.-J., Yang, J.-B., Zhang, R., Li, S.-F., Jia, L.-B. (2025). **Revisiting the molecular circumscription of Sladeniaceae sensu lato: insights from phylogenetic discordance.** *American Journal of Botany.*
 
