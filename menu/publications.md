@@ -44,7 +44,7 @@ Using phylogenomics and integrative taxonomy, I investigate species boundaries, 
 
 - **Yu, C.-C.**, Chung, K.-F. (2017). **Why *Mahonia*? Molecular recircumscription of *Berberis* s.l., with the description of two new genera, *Alloberberis* and *Moranothamnus*.** *Taxon.*
 
-- Pan, H.-L., Zhang, Y., Wang, J.-H., Meng, D.-C., **Yu, C.-C.** (2025). *Berberis jiuzhaigouensis*_ (Berberidaceae), a new riparian shrub from northern Sichuan, China.** *PhytoKeys.*
+- Pan, H.-L., Zhang, Y., Wang, J.-H., Meng, D.-C., **Yu, C.-C.** (2025). *Berberis jiuzhaigouensis*_ (Berberidaceae), a new riparian shrub from northern Sichuan, China. *PhytoKeys.*
 
 - **Yu, C.-C.**, Mo, Z.-Q., Hu, J.-J., Yang, J.-B., Zhang, R., Li, S.-F., Jia, L.-B. (2025). **Revisiting the molecular circumscription of Sladeniaceae sensu lato: insights from phylogenetic discordance.** *American Journal of Botany.*
 
