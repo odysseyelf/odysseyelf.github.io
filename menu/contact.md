@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Publications
-image: Publication.jpg
-permalink: /publications/
+title: Contact
+image: contact.jpg
+permalink: /contact/
 ---
 
 
