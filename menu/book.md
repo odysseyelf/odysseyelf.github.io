@@ -19,14 +19,14 @@ My academic research and science writing share the same goal: helping people und
 
 **Publisher:** 春山出版社｜**Year:** 2020
 
+Taiwan’s mountains – with their subtropical foothills and alpine peaks – have been a haven for rare plants throughout the island’s history. But how did they get there? Scientist Yu Chih Chieh leads us through millennia of natural history in one of Asia’s great floral ecosystems.
+
+➡️ [Read or download the English sample](/downloads/books/Book1_English_Sample.pdf)
+
 **Awards:** Golden Tripod Award (金鼎獎); Recommended Publication (優良出版品推薦作
 品), 45th Golden Tripod Awards, Taiwan Ministry of Culture; Wu Ta-You Popular Science Book Award (吳大猷科普著作獎); Honorable
 Mention (佳作獎), 11th Wu Ta-You Awards; Taipei International Book Exhibition Grand Prize (台北國際書展大獎); non-
 Fiction Category, Finalist (入圍); Openbook Good Book Award; Annual Chinese Creative Non-Fiction
-
-Taiwan’s mountains – with their subtropical foothills and alpine peaks – have been a haven for rare plants throughout the island’s history. But how did they get there? Scientist Yu Chih Chieh leads us through millennia of natural history in one of Asia’s great floral ecosystems.
-
-➡️ [Read or download the English sample](/downloads/books/Book1_English_Sample.pdf)
 
 ---
 
@@ -38,15 +38,14 @@ Taiwan’s mountains – with their subtropical foothills and alpine peaks – h
 
 **Publisher:** 春山出版社｜**Year:** 2023
 
+A biogeographic exploration spanning millions of years, this book investigates the origins of Taiwan’s flora and fauna and the island’s incredible biodiversity. Fascinating information is interspersed with insights on the beauty of the natural world.
+
+➡️ [Read or download the English sample](/downloads/books/Book2_English_Sample.pdf)
+
 **Awards:** Golden Tripod Award (金鼎獎); Non-Fiction Book Award, 48th Golden Tripod
 Awards, Taiwan Ministry of Culture; Wu Ta-You Popular Science Book Award (吳大猷科普著作獎); Honorable
 Mention (佳作獎), 12th Wu Ta-You Awards; Taipei International Book Exhibition Grand Prize (台北國際書展大獎); non-
 Fiction Category, Finalist (入圍); MOC Recommended Reading List for Elementary and Secondary Schools; Openbook Good Book Award; Annual Chinese Creative Non-Fiction
-
-
-A biogeographic exploration spanning millions of years, this book investigates the origins of Taiwan’s flora and fauna and the island’s incredible biodiversity. Fascinating information is interspersed with insights on the beauty of the natural world.
-
-➡️ [Read or download the English sample](/downloads/books/Book2_English_Sample.pdf)
 
 ---
 
