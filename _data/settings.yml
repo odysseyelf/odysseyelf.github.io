@@ -11,6 +11,7 @@ menu:
   - {name: 'Research', url: 'research'}
   - {name: 'Taxonomic Discoveries', url: 'taxonomic-discoveries'}
   - {name: 'Publications', url: 'publications'}
+  - {name: 'Media & Writing', url: 'media-writing'}
   - {name: 'CV', url: 'cv'}
   - {name: 'Books', url: 'books'}
   - {name: 'Activity', url: 'activity'}
