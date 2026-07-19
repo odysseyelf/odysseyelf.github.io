@@ -7,13 +7,14 @@ disqus:
 google-ID: 'G-SE90XLJGB0'
 
 menu:
-- {name: 'About',   url: 'about'}
-- {name: 'Research', url: 'research'}
-- {name: 'Publications', url: 'publications'}
-- {name: 'CV', url: 'cv'}
-- {name: 'Books', url: 'books'}
-- {name: 'Activity', url: 'activity'}
-- {name: 'Contact', url: 'contact'}
+  - {name: 'About', url: 'about'}
+  - {name: 'Research', url: 'research'}
+  - {name: 'Taxonomic Discoveries', url: 'taxonomic-discoveries'}
+  - {name: 'Publications', url: 'publications'}
+  - {name: 'CV', url: 'cv'}
+  - {name: 'Books', url: 'books'}
+  - {name: 'Activity', url: 'activity'}
+  - {name: 'Contact', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
