@@ -1,4 +1,29 @@
 <footer class="footer">
+
   {% include social-icons.html %}
-  <div class="footer-description"><a href="{{ site.github.url }}/">{{ site.title }} | {{ site.description }}</a></div>
+
+  <div class="footer-description">
+    <a href="{{ site.github.url }}/">
+      {{ site.title }} | {{ site.description }}
+    </a>
+  </div>
+
+  <div class="footer-description">
+    🌿 Page Views:
+    <span id="gc-pageviews">...</span>
+  </div>
+
+  <script>
+    window.addEventListener("load", function () {
+      fetch("https://odysseyelf.goatcounter.com/counter/TOTAL.json")
+        .then(r => r.json())
+        .then(data => {
+          document.getElementById("gc-pageviews").textContent = data.count;
+        })
+        .catch(() => {
+          document.getElementById("gc-pageviews").textContent = "--";
+        });
+    });
+  </script>
+
 </footer>
