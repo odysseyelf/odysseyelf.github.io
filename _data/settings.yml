@@ -19,10 +19,10 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'envelope',       link: 'mailto:cyu@fieldmuseum.org'}
-- {icon: 'github',         link: 'https://github.com/odysseyelf'}
-- {icon: 'researchgate',     link: 'https://www.researchgate.net/profile/Chih-Chieh-Yu-2?ev=hdr_xprf'}
-- {icon: 'google-scholar', link: 'https://scholar.google.com.tw/citations?hl=zh-TW&user=fsunfBIAAAAJ'}
+  - {icon: 'github', link: 'https://github.com/odysseyelf'}
+  - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Chih-Chieh-Yu-2?ev=hdr_xprf'}
+  - {icon: 'google-scholar', link: 'https://scholar.google.com.tw/citations?hl=zh-TW&user=fsunfBIAAAAJ'}
+  - {icon: 'inaturalist', link: 'https://www.inaturalist.org/people/brendan66'}
 
 # Customize site text
 pagination:
