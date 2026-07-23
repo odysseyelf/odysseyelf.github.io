@@ -13,7 +13,7 @@ Rather than presenting a complete publication list here, I highlight representat
 
 # Mountain Biodiversity
 
-- **Yu, C.-C.**, Du, Z.-Q., Onstein, R., Li, S.-F., Ree, R. H., Xing, Y.-W. (2026). **Synnovation and confluence explain disparities in species richness across the Andes and Hengduan–Himalaya Mountains.** *Nature Communications.* (accepted)
+- **Yu, C.-C.**, Du, Z.-Q., Onstein, R., Li, S.-F., Ree, R. H., Xing, Y.-W. (2026). **Synnovation and confluence explain disparities in species richness across the Andes and Hengduan–Himalaya Mountains.** *Nature Communications.*
 
 - Peng, C., **Yu, C.-C.**, Ding, W.-N., Chen, L.-Q., Zhang, Q.-Y., Li, Y.-K., Boucher, F. C., Lavergne, S., Xing, Y.-W. (2026). **Macroevolutionary dynamics of *Androsace* s.l. across the Northern Hemisphere.** *Journal of Systematics and Evolution.* (accepted)
   
